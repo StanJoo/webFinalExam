@@ -1,0 +1,71 @@
+.loginForm{
+    width: 300px;
+    height: 400px;
+    background-color:  rgb(40, 40, 40);
+    margin: 30px 30px 0px 30px;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.userInfo h1{
+    color: #f5f5f5;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.userId input{
+    margin: 15% 10% 0px 10%;
+    width: 80%;
+    height: 40px;
+    border-radius: 8px;
+    border: 3px solid rgb(33, 33, 33);
+}
+
+.userPassword input{
+    margin: 8% 10% 0px 10%;
+    width: 80%;
+    height: 40px;
+    border-radius: 8px;
+    border: 3px solid rgb(33, 33, 33);
+}
+
+.userPasswordCheck input{
+    margin: 8% 10% 0px 10%;
+    width: 80%;
+    height: 40px;
+    border-radius: 8px;
+    border: 3px solid rgb(33, 33, 33);
+}
+
+.userName input{
+    margin: 8% 10% 0px 10%;
+    width: 80%;
+    height: 40px;
+    border-radius: 8px;
+    border: 3px solid rgb(33, 33, 33);
+}
+
+.btn input{
+    font-size: 12pt;
+    margin: 8% 10% 0px 10%;
+    width: 80%;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(33, 33, 33);
+    color: #f5f5f5;
+}
+
+.btn input:hover{
+    background-color: #f5f5f5;
+    color: rgb(33, 33, 33);
+}
+
+.registerForm{
+    width: 300px;
+    height: 450px;
+    background-color:  rgb(40, 40, 40);
+    margin: 30px 30px 0px 30px;
+    position: absolute;
+    border-radius: 20px;
+}
